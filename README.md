@@ -21,9 +21,9 @@ Aturin adalah aplikasi berbasis web yang dirancang untuk membantu pengguna dalam
 Aplikasi ini menggunakan arsitektur deployment berbasis cloud dengan detail sebagai berikut:
 
 - **Frontend**: Deploy menggunakan **Vercel**, mendukung auto-deployment dari GitHub.
-- **Backend**: Menggunakan **Firebase Cloud Functions** untuk layanan serverless API.
+- **Backend**: Menggunakan **Railways** untuk layanan serverless API.
 - **Authentication**: Menggunakan **Firebase Authentication** (Google & GitHub OAuth).
-- **Database**: **MonggoDB Atlas** untuk penyimpanan data real-time.
+- **Database**: **MongoDB Atlas** untuk penyimpanan data real-time.
 
 ## 🚀 Petunjuk Penggunaan Aplikasi
 
